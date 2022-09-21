@@ -1,1 +1,9 @@
 This is demo code for23 jully batch
+
+
+We are working for Git functionality
+Topic covered
+OOPS
+Collection
+DB
+need to update code
