@@ -5,5 +5,5 @@ We are working for Git functionality
 Topic covered
 OOPS
 Collection
-DB
+
 need to update code
